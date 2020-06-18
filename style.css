@@ -32,16 +32,16 @@ body {
     padding-left: 20px;
   }
   
-  /* Fake image */
+  /* Coronovirus update */
   .description {
     background-color: #aaa;
-    height: 200px;
+    height: 300px;
     width: 100%;
-    padding: 20px;
+    padding: 5px;
   }
   
   /* Add a card effect for articles */
-  .card {
+  .news {
     background-color: white;
     padding: 20px;
     margin-top: 20px;
